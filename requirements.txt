@@ -1,7 +1,7 @@
 g2p-en == 2.1.0
 inflect == 4.1.0
 librosa == 0.7.2
-matplotlib == 3.2.2
+matplotlib == 3.10.0
 numba == 0.48
 numpy == 1.19.0
 pypinyin==0.39.0
